@@ -1,5 +1,6 @@
-## Put comments here that give an overall description of what your
-## functions do
+## Matrix inversion is usually a time consuming computation and
+## there may be benefit to caching it rather than computing it
+## repeatedly. These functions will do it(Matrix Inversion).
 
 ## makeCacheMatrix- a function that creates a "special matrix" 
 ## that is able to cache its inverse.
